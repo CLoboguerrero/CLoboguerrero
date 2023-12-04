@@ -11,6 +11,12 @@ My initial foray into web development dates back to 2018, where I began working 
 
 With a passion for technology, I merge my automotive engineering background, teaching abilities, and newfound development skills to drive meaningful contributions. I eagerly seek opportunities to leverage this unique blend for impactful outcomes.
 
+If you're interested in connecting, feel free to drop me an email or connect with me on LinkedIn. I'm always eager to explore opportunities for collaborative work. Let's create something great together!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-loboguerrero/)
+[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:c.loboguerrero@outlook.com)
+
+
 ## My current Stack:
 
 ### <li>Programming Languages:
