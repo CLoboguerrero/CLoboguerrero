@@ -64,15 +64,15 @@ With a passion for technology, I merge my automotive engineering background, tea
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 50%;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <div style="width: 48%;">
         <a href="https://www.youtube.com/watch?v=CF7vkim_pW4">
-            <img src="https://img.youtube.com/vi/CF7vkim_pW4/default.jpg" alt="First Video Thumbnail" style="width: 50%;">
+            <img src="https://img.youtube.com/vi/CF7vkim_pW4/hqdefault.jpg" alt="First Video Thumbnail" style="width: 48%;">
         </a>
     </div>
-    <div style="width: 50%;">
+    <div style="width: 48%;">
         <a href="https://www.youtube.com/watch?v=CWU7nQGDE0Y">
-            <img src="https://img.youtube.com/vi/CWU7nQGDE0Y/default.jpg" alt="Second Video Thumbnail" style="width: 50%;">
+            <img src="https://img.youtube.com/vi/CWU7nQGDE0Y/hqdefault.jpg" alt="Second Video Thumbnail" style="width: 48%;">
         </a>
     </div>
 </div>
