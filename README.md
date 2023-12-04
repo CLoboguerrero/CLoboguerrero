@@ -3,7 +3,9 @@
 
 ### Hi there 👋
 
-Hi, I'm Carlos Loboguerrero, an Automotive Engineer on a journey to master Full Stack Web Development. I've been immersed in the world of web development since 2018 in the WordPress platform. This experience has honed my skills in HTML and CSS, setting a strong foundation for my web development journey. Recently, I've delved into the exciting realms of JavaScript and React, dedicating the past two months to expand my knowledge and capabilities. I'm thrilled to share my newfound expertise with others and embark on collaborative projects. If you're interested in connecting, feel free to drop me an email or connect with me on LinkedIn. I'm always eager to explore opportunities for collaborative work. Let's create something great together!
+Hi, I'm Carlos Loboguerrero, an Automotive Engineer currently on the verge of completing the intensive Full Stack Web Development program at 'Henry' coding bootcamp. Over the past five months, this transformative journey has proven to be an incredibly meaningful and fulfilling experience.
+My initial foray into web development dates back to 2018, where I began working with the WordPress platform. This early exposure equipped me with a solid grasp of HTML and CSS, laying a robust foundation for my subsequent ventures.
+With a passion for technology, I merge my automotive engineering background, teaching abilities, and newfound development skills to drive meaningful contributions. I eagerly seek opportunities to leverage this unique blend for impactful outcomes.
 
 
 Front-end:
