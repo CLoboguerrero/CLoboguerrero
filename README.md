@@ -64,17 +64,15 @@ With a passion for technology, I merge my automotive engineering background, tea
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-    <div style="width: 48%;">
-        <a href="https://www.youtube.com/watch?v=CF7vkim_pW4">
-            <img src="https://img.youtube.com/vi/CF7vkim_pW4/hqdefault.jpg" alt="First Video Thumbnail" style="width: 48%;">
-        </a>
-    </div>
-    <div style="width: 48%;">
-        <a href="https://www.youtube.com/watch?v=CWU7nQGDE0Y">
-            <img src="https://img.youtube.com/vi/CWU7nQGDE0Y/hqdefault.jpg" alt="Second Video Thumbnail" style="width: 48%;">
-        </a>
-    </div>
+<br>
+
+## Relevant Projects I Made in Henry Coding Bootcamp:
+
+<div align="center">
+
+| [![First Video Thumbnail](https://img.youtube.com/vi/CF7vkim_pW4/hqdefault.jpg)](https://www.youtube.com/watch?v=CF7vkim_pW4) | [![Second Video Thumbnail](https://img.youtube.com/vi/CWU7nQGDE0Y/hqdefault.jpg)](https://www.youtube.com/watch?v=CWU7nQGDE0Y) |
+|:---:|:---:|
+| VideoGames Project | Integration Project |
+| Made with the RawG API for the Individual Project in Henry Coding Bootcamp. | Made with Rick and Morty API to learn (integrate) the Full Stack technologies. |
+
 </div>
-
-
