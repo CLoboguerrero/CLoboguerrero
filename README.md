@@ -64,7 +64,7 @@ With a passion for technology, I merge my automotive engineering background, tea
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
     <div style="width: 48%;">
         <a href="https://www.youtube.com/watch?v=CF7vkim_pW4">
             <img src="https://img.youtube.com/vi/CF7vkim_pW4/hqdefault.jpg" alt="First Video Thumbnail" style="width: 48%;">
