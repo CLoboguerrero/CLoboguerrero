@@ -12,7 +12,8 @@ My initial foray into web development dates back to 2018, where I began working 
 With a passion for technology, I merge my automotive engineering background, teaching abilities, and newfound development skills to drive meaningful contributions. I eagerly seek opportunities to leverage this unique blend for impactful outcomes.
 
 
-Front-end:
+###Front-end:
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
