@@ -1,6 +1,9 @@
-### Hi there 👋
 
 <picture><img src = "https://github.com/CLoboguerrero/CLoboguerrero/assets/120610284/c7825c85-9e76-4f8f-b2ed-8b0f01ec18dd"></picture>
+
+### Hi there 👋
+
+Hi, I'm Carlos Loboguerrero, an Automotive Engineer on a journey to master Full Stack Web Development. I've been immersed in the world of web development since 2018 in the WordPress platform. This experience has honed my skills in HTML and CSS, setting a strong foundation for my web development journey. Recently, I've delved into the exciting realms of JavaScript and React, dedicating the past two months to expand my knowledge and capabilities. I'm thrilled to share my newfound expertise with others and embark on collaborative projects. If you're interested in connecting, feel free to drop me an email or connect with me on LinkedIn. I'm always eager to explore opportunities for collaborative work. Let's create something great together!
 
 
 Front-end:
