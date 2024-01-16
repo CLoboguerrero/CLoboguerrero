@@ -3,7 +3,7 @@
 
 ## About Me:
 
-I'm Carlos Loboguerrero, an Automotive Engineer currently on the verge of completing the intensive Full Stack Web Development program at Henry coding bootcamp. Over the past five months, this transformative journey has proven to be an incredibly meaningful and fulfilling experience.
+I'm Carlos Loboguerrero, an Automotive Engineer and Full-Stack Developer who successfully completed the intensive Full Stack Web Development program at Henry coding bootcamp. This transformative journey has been an incredibly meaningful and fulfilling experience in my professional development.
 <br>
 
 My initial foray into web development dates back to 2018, where I began working with the WordPress platform. This early exposure equipped me with a solid grasp of HTML and CSS, laying a robust foundation for my subsequent ventures.
