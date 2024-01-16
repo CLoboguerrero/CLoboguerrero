@@ -14,7 +14,7 @@ With a passion for technology, I merge my automotive engineering background, tea
 If you're interested in connecting, feel free to drop me an email or connect with me on LinkedIn. I'm always eager to explore opportunities for collaborative work. Let's create something great together!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-loboguerrero/)
-[![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:c.loboguerrero@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.loboguerrero.c@gmail.com)
 
 
 ## My current Stack:
